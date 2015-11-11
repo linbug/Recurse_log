@@ -17,10 +17,28 @@ Activity: Practicing Python classes
 ##Day 2 Nov 10
 
 goals:
-- quick recap of python classes
+- quick recap of python classes x
 - cracking the coding interview
 - kaggle ML
 - think about DS projects I could do
 
 - 2-3pm = neural nets paper reading
 - 5.30 - 8.30 = blog party in Hopper
+
+--------------------------------------
+
+what I ended up doing:
+- quick recap of python classes
+- got Glock set up on my computer, updated the repo
+- did some D3 tutorials on YouTube
+- attended the neural nets lecture
+- got jekyll previewing working on my computer
+
+##Day 3 Nov 11
+
+goals:
+- attend Choosing projects session 3-4pm
+- continue with D3 tutorials
+- cracking the coding interview questions?
+
+
