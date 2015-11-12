@@ -41,4 +41,10 @@ goals:
 - continue with D3 tutorials
 - cracking the coding interview questions?
 
+--------------------------------------
+
+what I ended up doing:
+- Lots of D3, although, I don’t know how much progress I made with that. I still don’t really understand any of it. :(
+- Went to Choosing Projects session
+
 
