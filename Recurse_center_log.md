@@ -64,6 +64,13 @@ goals:
 - finish chapters 2 and 3 from Gelman and Hill
 - attend intermediate git workshop
 
+--------------------------------------
+
+what I ended up doing:
+- attended git workshop
+- finished chapter 2 from G and H
+
+
 ideas for projects:
 - scrape google calendar or timetracker data and visualise
 - something to do with... food, knitting, origami
