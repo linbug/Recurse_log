@@ -47,4 +47,30 @@ what I ended up doing:
 - Lots of D3, although, I don’t know how much progress I made with that. I still don’t really understand any of it. :(
 - Went to Choosing Projects session
 
+##Day 4 Nov 12
+
+goals
+- More D3, and getting help with this
+- 
+
+--------------------------------------
+- paired with a few people on D3. Managed to get transitions working
+- went to the non-technical checkin
+- went to Sublime talk. new goal: learn useful shortcuts and packages for Sublime
+
+## Day 5 Nov 13
+
+goals:
+- finish chapters 2 and 3 from Gelman and Hill
+- attend intermediate git workshop
+
+ideas for projects:
+- scrape google calendar or timetracker data and visualise
+- something to do with... food, knitting, origami
+- recipe mashup
+- twitter scraping
+- is there any data available for recursers e.g. age, etc.
+
+
+
 
