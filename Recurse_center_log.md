@@ -78,6 +78,30 @@ ideas for projects:
 - twitter scraping
 - is there any data available for recursers e.g. age, etc.
 
+## Day 7 Nov 15
+
+goals:
+- finish blog post week 1 x
+- playing with d3 x
+
+Conversation with Chris:
+Try and get experience with - 
+- network X
+- scikit-learn
+- Spark/AWS
+- it's ok to do cousera/tutorials
+
+Plan for the week ahead:
+- Read chapters 3 - 5 in book (that's at least half a chapter a day)
+- Pair on JS stuff. Finalise ideas for a big project
+- http://www.cheese.com/isle-of-mull/
+- markets of ny 
+- ml kaggle
+
+## Day 8 Nov 16
+
+- Paired with javier all day on d3. Managed ot get the rebound thing working, added sounds!
+- Did most of the questions at the end of G and H chapter 1.
 
 
 
