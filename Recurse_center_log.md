@@ -49,7 +49,7 @@ what I ended up doing:
 
 ##Day 4 Nov 12
 
-goals
+goals:
 - More D3, and getting help with this
 - 
 
@@ -102,6 +102,47 @@ Plan for the week ahead:
 
 - Paired with javier all day on d3. Managed ot get the rebound thing working, added sounds!
 - Did most of the questions at the end of G and H chapter 1.
+
+## Day 9 Nov 17
+
+goals:
+- Read (half?) of ch 3 G and H
+- Continue with d3, link sounds with height of bars, make an orchestra
+
+possible places I could go from here:
+- keep playing with sounds and exand this so that there are several instruments
+- load up some actual data, do some graphs with axes etc. 
+
+what I ended up doing:
+- read some of G and H chapter 3 (the book arrived!)
+- got sounds matched to bar height in d3. Paired with Mary. Played with different data inputs e.g. sine wave. Failed at adding axes.
+
+## Day 10 Nov 18
+
+- Finish G and H chapter 3
+- Load up some actual data to d3, do some graphs with axes e.g. stock exchange, Google nGrams etc.
+- buy a hairdryer
+- think about accommodation 
+
+what I ended up doing:
+- did some of chapter 3 but didn't finish D:
+- got actual data working in d3; javier helped. csv needs to have actual commas. Also accessing the data need to reference the actual values, not just the ... whatever 
+- went to Mary's talk about functional programming; I want to do some pairing on this with Lauren tomorrow, maybe
+
+## Day 11 Nov 19
+
+- Finish G and H chapter 3!!
+- Do osme pairing with Lauren on functional Python
+- either continue with my visualisation, link up to some external data sources, or make a new map thingy
+- where is all the cheese? 
+
+What I actually did:
+
+- Almost finished ch 3... need to do the exercises
+- paired with Lauren on functional programming in Python. This was hard, and I wasn't good at it :(
+
+
+
 
 
 
