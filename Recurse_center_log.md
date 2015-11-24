@@ -142,6 +142,21 @@ What I actually did:
 - paired with Lauren on functional programming in Python. This was hard, and I wasn't good at it :(
 
 
+## Day 12 Nov 20
+- Whiteboarding interview practice
+
+#Day 15 Monday 23 Nov
+- Chapter 4 of G and H
+- think about and choose a big project I want to do. Make a list of skills I want to learn and ideas for projects, then talk to John about it.
+
+-------------
+what I actually did:
+- Read half of ch 4
+- thought about projects a lot
+- Talked to John about projects. He recommended try starting on something small, e.g. the twitter API, and then see where I am from there. 
+- He suggested integrating things with twillio
+- paired with David in the afternoon on his bikeshare data
+
 
 
 
