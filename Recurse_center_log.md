@@ -157,6 +157,16 @@ what I actually did:
 - He suggested integrating things with twillio
 - paired with David in the afternoon on his bikeshare data
 
+tomorrow:
+play with the twitter API, 
+
+#Day 16 Tuesday 24 Nov
+Read a lot of the Twitter API
+Wrote/copied a small script to interact with the Twitter stream API. Filtered by hashtag 'GRAMMYs'.
+Worked out how to read this into a python pandas dataframe. Basically, each line is a json object, and some of those objects have NESTED objects, but for some of the tweets certain keys don't exist at all
+So reading into pandas requires a map and dealing with errors
+
+
 
 
 
