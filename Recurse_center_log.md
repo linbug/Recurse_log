@@ -166,6 +166,37 @@ Wrote/copied a small script to interact with the Twitter stream API. Filtered by
 Worked out how to read this into a python pandas dataframe. Basically, each line is a json object, and some of those objects have NESTED objects, but for some of the tweets certain keys don't exist at all
 So reading into pandas requires a map and dealing with errors
 
+#Day 17 Wednesday 25 Nov
+goals:
+- Finish reading ch4 G and H
+- Automate twitter scraping; feed into a visualisation
+
+#Day18 Thursday 26 Nov
+- Gelman and Hill
+
+#Day 19 Friday 27 Nov
+- Gelman and Hill ch 4 done, started ch 5
+- Did a weeny bit of twitter stuff
+
+#Day 20 Saturday 28 Nov
+
+Things I could do this afternoon:
+do more logistic regression chapter - I should really prioritise this 
+play around making a mockup of Daniel's credency calculator thingy
+do Twitter hashtag stuff
+write up blog post for Americana stuff
+
+What I actually did:
+finished half of the logistic regression chapter. Could I use this somehow in my RC stuff? Modelling the likelihood that a tweet has a picture or not, based on its attributes
+- did some twitter analysis of hashtag associations. I should...do this with networks shouldn't I. 
+
+#Day 21 Sunday 29 Nov
+
+ Things to do today:
+ -Write blog post about twitter stuff ---eeeh mostly
+ -Finish logistic regression chapter ---nooope
+ -Go for a swim/do something fun x
+
 
 
 
